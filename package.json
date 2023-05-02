@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Project for blog using Mern Stack",
   "main": "server.js",
+  "homepage": "https://github.com/Muskan20012/Blog-using-MERN",
   "scripts": {
     "predeploy": "npm run build --prefix client",
     "deploy": "gh-pages -d client/build",
